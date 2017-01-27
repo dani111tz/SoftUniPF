@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.pdb

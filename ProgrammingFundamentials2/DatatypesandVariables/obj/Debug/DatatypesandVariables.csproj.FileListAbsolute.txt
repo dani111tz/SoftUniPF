@@ -1,0 +1,9 @@
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\DatatypesandVariables\bin\Debug\DatatypesandVariables.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\DatatypesandVariables\bin\Debug\DatatypesandVariables.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\DatatypesandVariables\bin\Debug\DatatypesandVariables.pdb
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\DatatypesandVariables\obj\Debug\DatatypesandVariables.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\DatatypesandVariables\obj\Debug\DatatypesandVariables.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\DatatypesandVariables\obj\Debug\DatatypesandVariables.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials2\DatatypesandVariables\bin\Debug\DatatypesandVariables.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials2\DatatypesandVariables\obj\Debug\DatatypesandVariables.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials2\DatatypesandVariables\obj\Debug\DatatypesandVariables.pdb

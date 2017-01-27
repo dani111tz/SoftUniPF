@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\CirclePerimeter\bin\Debug\CirclePerimeter.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\CirclePerimeter\bin\Debug\CirclePerimeter.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\CirclePerimeter\bin\Debug\CirclePerimeter.pdb
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\CirclePerimeter\obj\Debug\CirclePerimeter.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\CirclePerimeter\obj\Debug\CirclePerimeter.pdb

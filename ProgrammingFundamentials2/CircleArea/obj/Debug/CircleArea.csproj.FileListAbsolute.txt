@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\CircleArea\bin\Debug\CircleArea.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\CircleArea\bin\Debug\CircleArea.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\CircleArea\bin\Debug\CircleArea.pdb
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\CircleArea\obj\Debug\CircleArea.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\CircleArea\obj\Debug\CircleArea.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials\CircleArea\obj\Debug\CircleArea.pdb

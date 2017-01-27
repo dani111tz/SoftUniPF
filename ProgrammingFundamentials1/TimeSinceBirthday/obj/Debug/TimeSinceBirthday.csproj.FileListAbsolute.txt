@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\TimeSinceBirthday\bin\Debug\TimeSinceBirthday.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\TimeSinceBirthday\bin\Debug\TimeSinceBirthday.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\TimeSinceBirthday\bin\Debug\TimeSinceBirthday.pdb
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\TimeSinceBirthday\obj\Debug\TimeSinceBirthday.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\TimeSinceBirthday\obj\Debug\TimeSinceBirthday.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials1\TimeSinceBirthday\obj\Debug\TimeSinceBirthday.pdb
