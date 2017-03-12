@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FloatorInteger\bin\Debug\FloatorInteger.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FloatorInteger\bin\Debug\FloatorInteger.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FloatorInteger\bin\Debug\FloatorInteger.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FloatorInteger\obj\Debug\FloatorInteger.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FloatorInteger\obj\Debug\FloatorInteger.pdb

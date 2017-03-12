@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csprojResolveAssemblyReference.cache

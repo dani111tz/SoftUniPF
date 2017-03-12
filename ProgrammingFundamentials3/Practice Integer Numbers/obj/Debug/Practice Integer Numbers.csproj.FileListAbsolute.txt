@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials3\Practice Integer Numbers\bin\Debug\Practice Integer Numbers.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\Practice Integer Numbers\bin\Debug\Practice Integer Numbers.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\Practice Integer Numbers\bin\Debug\Practice Integer Numbers.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\Practice Integer Numbers\obj\Debug\Practice Integer Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\Practice Integer Numbers\obj\Debug\Practice Integer Numbers.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\Practice Integer Numbers\obj\Debug\Practice Integer Numbers.pdb

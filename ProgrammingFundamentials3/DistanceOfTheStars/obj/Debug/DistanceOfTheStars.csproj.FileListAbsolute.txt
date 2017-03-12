@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\DistanceOfTheStars\bin\Debug\DistanceOfTheStars.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\DistanceOfTheStars\obj\Debug\DistanceOfTheStars.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\DistanceOfTheStars\bin\Debug\DistanceOfTheStars.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\DistanceOfTheStars\bin\Debug\DistanceOfTheStars.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\DistanceOfTheStars\obj\Debug\DistanceOfTheStars.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\DistanceOfTheStars\obj\Debug\DistanceOfTheStars.pdb

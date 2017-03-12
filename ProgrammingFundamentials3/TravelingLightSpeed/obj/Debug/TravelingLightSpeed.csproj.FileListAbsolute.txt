@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\TravelingLightSpeed\bin\Debug\TravelingLightSpeed.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\TravelingLightSpeed\bin\Debug\TravelingLightSpeed.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\TravelingLightSpeed\bin\Debug\TravelingLightSpeed.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\TravelingLightSpeed\obj\Debug\TravelingLightSpeed.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\TravelingLightSpeed\obj\Debug\TravelingLightSpeed.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\TravelingLightSpeed\obj\Debug\TravelingLightSpeed.csprojResolveAssemblyReference.cache

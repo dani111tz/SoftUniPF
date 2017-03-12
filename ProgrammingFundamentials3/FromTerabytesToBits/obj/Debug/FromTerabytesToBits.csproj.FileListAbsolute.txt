@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects2\ProgrammingFundamentials3\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.pdb
