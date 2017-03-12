@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.pdb
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.pdb

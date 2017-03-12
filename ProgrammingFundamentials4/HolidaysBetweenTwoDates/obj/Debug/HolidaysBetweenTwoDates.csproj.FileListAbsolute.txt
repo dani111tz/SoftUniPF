@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.pdb
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.exe
+c:\users\daniel\documents\visual studio 2015\Projects2\ProgrammingFundamentials4\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.pdb
